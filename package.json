@@ -1,0 +1,24 @@
+{
+  "name": "tutorial-electron",
+  "version": "1.0.0",
+  "description": "Hola mundo!",
+  "homepage": "https://github.com/pamelamp/Tutorial-Electron#readme",
+  "bugs": {
+    "url": "https://github.com/pamelamp/Tutorial-Electron/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pamelamp/Tutorial-Electron.git"
+  },
+  "license": "MIT",
+  "author": "Pamela Mendoza",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: test no especificado\" && exit 1"
+  },
+  "devDependencies": {
+    "electron": "^45.1.0"
+  }
+}
